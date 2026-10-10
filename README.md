@@ -147,3 +147,47 @@ Hive / Distributed Processing
 Python + SQL Validation
    ↓
 Analytics / ML-ready datasets
+
+📄 AI-Powered ATS Resume Analyzer
+NLP and AI-based application for comparing resumes against job descriptions.
+- Extracted and cleaned resume and job-description text
+- Identified relevant skills and keywords using NLP
+- Developed matching and scoring logic
+- Generated structured feedback based on requirement alignment
+- Built an interactive interface for viewing results
+📈 Time Series Forecasting
+Machine learning workflow for analyzing temporal behavior and predicting future values.
+- Analyzed trend and seasonality
+- Prepared time-dependent features
+- Built forecasting workflows
+- Evaluated prediction quality
+- Visualized forecast behavior
+- Interpreted results for decision-making
+04 / PROFESSIONAL EXPERIENCE
+Vodafone Idea Limited
+Network Automation Engineer / Assistant Manager
+Worked with large-scale telecom production infrastructure where reliability, monitoring, automation, and operational impact were critical.
+- Monitored production network KPIs, traffic patterns, and system health
+- Used operational data to identify performance issues and anomalies
+- Automated repetitive operational tasks using Python and Bash
+- Supported troubleshooting and root-cause investigations
+- Coordinated technical activities across internal teams and external vendors
+- Supported network changes, upgrades, traffic shifts, and optimization activities
+Production systems taught me that reliability, monitoring, debugging, and measurable impact matter just as much as building the model.
+
+05 / RESEARCH
+📄 Bibliometric analysis on hand gesture firefighter assistance robots
+Published bibliometric research related to gesture-controlled robotics and firefighter-assistance technologies.
+- Conducted structured literature analysis
+- Studied research trends and publication patterns
+- Evaluated technologies related to robotics and human-machine interaction
+- Worked with technical research synthesis and visualization
+- 700+ reported downloads
+Research Interests
+🤖 Robotic Perception
+👃 Electronic-Nose Systems
+🧠 Artificial Senses
+⚙️ Intelligent Machines
+🦾 Human-Robot Interaction
+🔬 Applied AI Research
+06 / CURRENTLY EXPLORING
