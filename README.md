@@ -1,276 +1,219 @@
 <div align="center">
 
-# 🇮🇳 Nagrik
+# Hi, I'm Hritik Mathur 👋
 
-### A Civic Engagement & Community Impact Platform
+### Data Engineering | Data Science | Applied AI
 
-**Report local issues · Take civic action · Complete challenges · Track participation**
+**MS in Data Science · Pace University, New York**  
+**Former Network Automation Engineer · Vodafone Idea Limited**
 
-[![Live Web App](https://img.shields.io/badge/Live%20Web%20App-Open%20Nagrik-FF6B00?style=for-the-badge)](https://nagrik-eight.vercel.app)
-[![Expo](https://img.shields.io/badge/Expo-React%20Native-000020?style=for-the-badge&logo=expo)](https://expo.dev/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)](https://nagrik-eight.vercel.app)
+Building practical machine learning systems, data pipelines, and applications that connect data to real-world decisions.
 
-**[🚀 Launch Web App](https://nagrik-eight.vercel.app)** · **[📖 Deployment Guide](WEB_DEPLOYMENT.md)** · **[🐛 Report an Issue](https://github.com/mathurhritik2507/Nagrik/issues)**
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/mathurhritik2507)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hritikmathur/)
+[![Nagrik](https://img.shields.io/badge/Live_App-Nagrik-FF6B00?style=for-the-badge&logo=vercel)](https://nagrik-eight.vercel.app)
 
 </div>
 
 ---
 
-## Overview
+## 1. About Me
 
-**Nagrik** is a cross-platform civic-tech application designed to make civic participation more accessible, engaging, and measurable. It brings together civic issue reporting, community action uploads, challenges, participation rewards, and civic-learning tools in an app built with **React Native, Expo Router, and Firebase**.
+I'm a Data Science graduate student at **Pace University** with a professional background in telecommunications network automation and operations at **Vodafone Idea Limited**.
 
-Nagrik began as a mobile application and has since been adapted for the web. A **public web deployment is live on Vercel**, while the original Android/iOS-oriented source code is retained.
+My work experience introduced me to performance monitoring, network KPIs, traffic analysis, operational troubleshooting, stakeholder coordination, and data-driven decisions. Today, I apply that foundation to **machine learning, data engineering, analytics, and AI product development**.
 
-> **Project status:** Public **beta / portfolio demonstration**. Account registration, login, and the Home dashboard have been confirmed through the hosted web interface. Other features and cross-device data persistence still require end-to-end validation. This is not an official government service.
+I enjoy projects that move beyond a notebook: reproducible pipelines, interactive applications, transparent evaluation, and clear documentation.
 
-## Live Demo
+## 2. What I'm Working On
 
-| Destination | Link | Status |
+- **Applied machine learning:** anomaly detection, predictive modeling, evaluation, and explainability.
+- **Data engineering:** cloud pipelines, transformations, and analytics workflows.
+- **AI-powered applications:** building tools that solve operational or user-facing problems.
+- **Civic technology:** expanding Nagrik into a more accessible community participation platform.
+- **Software engineering practices:** testing, version control, deployment, and documentation.
+
+## 3. Professional Focus
+
+| Area | Interests |
+|---|---|
+| Data Science | Classification, regression, anomaly detection, forecasting, model evaluation |
+| Data Engineering | Data pipelines, ETL/ELT, SQL, cloud analytics, scalable processing |
+| Applied AI | ML-powered workflows, intelligent applications, model integration |
+| Analytics | KPI monitoring, dashboards, exploratory analysis, business insights |
+| Engineering | Python development, GitHub Actions, testing, reproducibility |
+
+## 4. Technical Toolkit
+
+**Languages & analysis**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Machine learning & visualization**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Cloud, applications & workflow**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+*This toolkit reflects the technologies used across my coursework and portfolio; experience varies by tool.*
+
+## 5. Featured Project — NetOps AI: Network Incident Intelligence
+
+**[Repository](https://github.com/mathurhritik2507/ai-network-incident-prediction)** · Python · Scikit-learn · Streamlit · Plotly · GitHub Actions
+
+A telecom-focused machine learning project connecting network performance analysis with incident prediction and anomaly detection.
+
+The repository combines two complementary workflows:
+
+1. **Supervised incident prediction:** Logistic Regression and Random Forest modeling using network KPI and security telemetry features.
+2. **Unsupervised anomaly detection:** Isolation Forest over synthetic traffic, latency, packet loss, CPU, and availability metrics.
+
+The anomaly extension adds a reproducible synthetic telemetry generator, chronological holdout evaluation, a separate Streamlit dashboard, and automated tests in GitHub Actions.
+
+**Run the anomaly dashboard locally:**
+
+```bash
+git clone https://github.com/mathurhritik2507/ai-network-incident-prediction.git
+cd ai-network-incident-prediction
+pip install -r requirements.txt
+python train_anomaly.py
+streamlit run anomaly_dashboard.py
+```
+
+> **Evaluation note:** The extension uses synthetic data with injected incidents. Results are prototype evaluation metrics, not validated production network performance.
+
+## 6. Featured Project — Nagrik: Civic Engagement Platform 🇮🇳
+
+**[🚀 Live Web App](https://nagrik-eight.vercel.app)** · **[Source Code](https://github.com/mathurhritik2507/Nagrik)** · React Native · Expo · Firebase · Vercel
+
+Nagrik is an independent civic-tech application designed to encourage community participation through issue reporting, civic action uploads, challenges, XP rewards, and a civic guidance assistant.
+
+**Implemented areas** include:
+
+- Email/password registration and login with Firebase Authentication.
+- Authenticated Home dashboard and application navigation.
+- Civic issue reporting and community action upload interfaces.
+- Challenges, XP and participation-oriented screens.
+- User profile, learning, notifications, and civic impact interfaces.
+- Browser deployment alongside the existing React Native mobile codebase.
+
+**Recent upgrades:** restored the Expo package manifest, introduced browser-specific Firebase authentication, improved visible login/signup error handling, added Vercel configuration, and deployed a public web preview.
+
+**Current status:** Signup, login, and the Home dashboard were confirmed on the public website. Other features, browser-specific media handling, and cross-device synchronization still need full end-to-end validation. The civic assistant currently uses keyword-based rules, not a hosted generative AI model.
+
+> Nagrik is a beta portfolio application, not an official municipal reporting service. Sample alerts and XP values should not be treated as verified civic outcomes.
+
+## 7. Featured Project — AI ATS Resume Analyzer
+
+**[Repository](https://github.com/mathurhritik2507/ai-ats-resume-analyzer)**
+
+A portfolio project exploring AI-assisted resume analysis and job-description alignment. The goal is to make application feedback clearer and more actionable.
+
+Visit the repository for the current implementation, supported features, and usage instructions.
+
+## 8. Featured Project — AWS Big Data Analytics Pipeline
+
+**[Repository](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline)**
+
+A cloud data-engineering portfolio project focused on analytics-pipeline concepts and AWS-oriented workflows.
+
+This project represents my interest in moving data from ingestion and transformation toward analysis and business decisions. See the repository for its exact architecture and implementation details.
+
+## 9. Additional Data Science & Analytics Projects
+
+| Project | Repository | Focus |
 |---|---|---|
-| Web application | **[nagrik-eight.vercel.app](https://nagrik-eight.vercel.app)** | Deployed; registration/login/Home demonstrated |
-| Source repository | [github.com/mathurhritik2507/Nagrik](https://github.com/mathurhritik2507/Nagrik) | Public |
-| Web deployment instructions | [WEB_DEPLOYMENT.md](WEB_DEPLOYMENT.md) | Available |
+| Financial Data Forecasting | [Forecasting Financial Data in Real Time](https://github.com/mathurhritik2507/Forecasting-Financial-Data-in-Real-Time) | Financial time-series analytics |
+| Time Series Forecasting | [time-series-forecasting-python](https://github.com/mathurhritik2507/time-series-forecasting-python) | Forecasting methods in Python |
+| Network Incident Data Analysis | [network-incident-data-analysis](https://github.com/mathurhritik2507/network-incident-data-analysis) | Operational KPI analysis |
+| Weka ML Classification | [weka-machine-learning-classification](https://github.com/mathurhritik2507/weka-machine-learning-classification) | Classification workflows |
+| Public Safety | [Public-Safety-Project](https://github.com/mathurhritik2507/Public-Safety-Project) | Public-safety problem exploration |
+| Data Science Portfolio | [data-science-portfolio](https://github.com/mathurhritik2507/data-science-portfolio) | Collected data science work |
 
-**To explore:** Open the web application, create an account using the **Create account** link, sign in, and navigate the dashboard. The first visit may redirect to the login page.
+*The linked repositories contain the implementation-specific documentation and current development status for each project.*
 
-## Why Nagrik?
+## 10. Professional Experience — Vodafone Idea Limited
 
-Everyday local problems—garbage accumulation, damaged roads, water leaks, and unsafe public spaces—are easier to address when residents can document them and stay engaged. Nagrik explores how product design and participation incentives might encourage small but meaningful civic actions.
+**Former Network Automation Engineer | Telecommunications**
 
-**Project goals**
+My professional experience connects operational engineering with data-driven analysis:
 
-- Make it easy to document community issues and civic actions.
-- Encourage ongoing participation through challenges, XP, and milestones.
-- Bring civic education and guidance into one accessible experience.
-- Provide a foundation for future community analytics and verified impact tracking.
+- Monitored network KPIs and performance indicators to understand service and operational health.
+- Worked with network traffic patterns, alarm information, and incident-related data to support investigation and decisions.
+- Supported traffic shifting and operational activities requiring coordination across teams and external stakeholders.
+- Participated in troubleshooting, execution planning, and communication of technical activities.
 
-## Features
+This experience shapes projects such as NetOps AI: I approach ML systems by thinking about operational context, false alarms, practical usability, and how predictions would support human decision-makers.
 
-| Area | Experience | Current implementation notes |
-|---|---|---|
-| 🔐 Authentication | Register and sign in using email and password | Firebase Authentication; browser signup and login confirmed |
-| 🏠 Home | Personalized welcome, XP summary, alerts, and navigation | Home dashboard confirmed on deployed web app |
-| 📸 Civic Actions | Add a description and attach an image of a community activity | Implemented in the mobile-oriented UI; web camera/image handling requires testing |
-| 🚧 Issue Reporting | Report civic issues with location, description, and optional photo | UI and local-save flow are present; end-to-end behavior needs verification |
-| 🎯 Challenges | Explore civic challenges and participation tasks | Feature screens present; reward integrity not yet independently validated |
-| 🏆 Gamification | XP, levels, streaks, rewards, and leaderboards | Prototype mechanics; not a verified real-world impact score |
-| 🗺️ Impact | Civic impact and location-oriented views | Prototype UI; do not interpret demo content as live municipal data |
-| 🤖 Civic Assistant | Answers common civic participation questions | **Currently keyword/rule-based**, not a connected LLM |
-| 👤 Profile | Profile details and activity summary | Existing profile UI and local storage; cross-device sync not established |
-| 🔔 Notifications | Reminders and engagement-related screens | Platform-specific functionality requires device/browser testing |
+## 11. Education
 
-### Demonstrated web flow
+**Master of Science in Data Science**  
+Pace University · New York, USA
+
+My academic work supports interests in statistical learning, model selection, data analysis, machine learning, and practical programming.
+
+## 12. How I Build Projects
 
 ```mermaid
 flowchart LR
-    A[Open Nagrik] --> B{Signed in?}
-    B -- No --> C[Login or Sign up]
-    C --> D[Firebase Authentication]
-    D --> E[Home dashboard]
-    B -- Yes --> E
-    E --> F[Challenges & XP]
-    E --> G[Upload actions]
-    E --> H[Report issues]
-    E --> I[Profile & civic learning]
+    A[Problem definition] --> B[Data understanding]
+    B --> C[Data preparation]
+    C --> D[Model or application development]
+    D --> E[Evaluation and testing]
+    E --> F[Dashboard or deployment]
+    F --> G[Documentation and iteration]
 ```
 
-> The flowchart represents the designed navigation. Only registration, login, and Home loading have been directly confirmed on the production web deployment so far.
+I aim to make each portfolio project easy to explore:
 
-## Technology Stack
+- A clearly stated problem and intended user.
+- Reproducible setup and training steps where relevant.
+- Thoughtful evaluation rather than unsupported performance claims.
+- A usable interface or tangible output where appropriate.
+- Transparent limitations and next steps.
 
-| Layer | Technology |
-|---|---|
-| Frontend | React Native, React, TypeScript/JavaScript, Expo SDK 54 |
-| Navigation | Expo Router |
-| Web support | React Native Web |
-| Authentication | Firebase Authentication |
-| Database integration | Firebase Firestore SDK (configured; production data flows require validation) |
-| Local persistence | AsyncStorage |
-| Media capabilities | Expo Image Picker / camera-related APIs |
-| Mobile builds | Expo Application Services (EAS) configuration |
-| Web deployment | Vercel, static Expo web export |
+## 13. Current Learning & Development
 
-## Architecture
+- ML modeling and performance evaluation.
+- Time-series forecasting and anomaly detection.
+- Cloud-based data engineering.
+- Building and deploying Python and cross-platform applications.
+- Integrating trustworthy AI capabilities into useful products.
+- Strengthening testing, documentation, and production-readiness.
 
-```mermaid
-flowchart TB
-    U[Users on browser or mobile] --> UI[Expo Router + React Native UI]
-    UI --> AUTH[Firebase Authentication]
-    UI --> LOCAL[AsyncStorage: prototype local data]
-    UI --> SDK[Firestore SDK integration]
-    UI --> MEDIA[Expo image and device APIs]
-    BUILD[Expo web static export] --> HOST[Vercel hosting]
-    HOST --> UI
-```
-
-**Data architecture note:** The presence of the Firestore SDK does not mean that all posts, issue reports, XP, or profiles are synchronized across users. Several existing screens read and write prototype data using AsyncStorage. Do not use the app for sensitive reports or assume public submissions reach government agencies.
-
-## Repository Structure
-
-```text
-Nagrik/
-├── app/
-│   ├── (tabs)/
-│   │   ├── index.tsx          # Home dashboard
-│   │   ├── explore.tsx        # Civic action uploads
-│   │   ├── report.tsx         # Civic issue reporting
-│   │   ├── challenges.tsx     # Challenges
-│   │   ├── impact.tsx         # Civic impact view
-│   │   ├── assistant.tsx      # Rule-based civic assistant
-│   │   ├── profile.tsx        # Profile
-│   │   └── ...                # Learning, rewards, leaderboard, etc.
-│   ├── login.tsx              # Login
-│   ├── signup.tsx             # Registration
-│   ├── onboarding.tsx
-│   └── _layout.tsx
-├── assets/                    # Icons and artwork
-├── components/                # Shared UI components
-├── constants/
-├── hooks/
-├── Data/
-├── firebaseConfig.js          # Native Firebase configuration
-├── firebaseConfig.web.js      # Browser Firebase configuration
-├── app.json                   # Expo app settings
-├── eas.json                   # Native EAS build profiles
-├── package.json               # Scripts and dependencies
-├── package-lock.json
-├── vercel.json                 # Web routing/build configuration
-├── WEB_DEPLOYMENT.md          # Deployment instructions
-└── README.md
-```
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js 20 or 22 and npm
-- Git
-- An Expo-compatible mobile device or emulator for mobile testing
-- Firebase project configuration for authentication and cloud services
-
-### 1. Clone
-
-```bash
-git clone https://github.com/mathurhritik2507/Nagrik.git
-cd Nagrik
-```
-
-### 2. Install dependencies
-
-```bash
-npm ci
-```
-
-If npm reports a dependency-lock mismatch, reconcile the dependency files locally before rebuilding; do not silently bypass dependency errors.
-
-### 3. Run in your browser
-
-```bash
-npm run web
-```
-
-### 4. Run the mobile development server
-
-```bash
-npm start
-```
-
-Use Expo Go or a compatible development build according to the native modules required by your device setup.
-
-### 5. Build a web export
-
-```bash
-npm run export:web
-```
-
-Expo generates a static web export into `dist/`.
-
-## Deploying to Vercel
-
-The live website was deployed from the GitHub repository using Vercel.
-
-| Vercel setting | Value |
-|---|---|
-| Repository | `mathurhritik2507/Nagrik` |
-| Root Directory | `./` |
-| Framework Preset | `Other` |
-| Install Command | `npm ci` |
-| Build Command | `npm run export:web` |
-| Output Directory | `dist` |
-
-Detailed instructions: **[WEB_DEPLOYMENT.md](WEB_DEPLOYMENT.md)**.
-
-If authentication is used on a new deployed domain, check the Firebase Authentication provider settings and authorized domains as appropriate for your sign-in flow. Review Firestore security rules before inviting real users.
-
-## Web + Android Compatibility
-
-The web extension added:
-
-1. A restored root `package.json` with Expo web scripts.
-2. `firebaseConfig.web.js` for browser-compatible authentication initialization, preserving `firebaseConfig.js` for native usage.
-3. `vercel.json` for web deployment configuration.
-4. Inline authentication error messages on both login and signup screens, so browser users can see failures.
-5. A working Vercel-hosted web preview.
-
-**Platform caveats:** Camera, file selection, push notifications, haptics, browser refresh routing, and local persistence can behave differently across Android, iOS, and web. They should be tested on each target platform before a public release.
-
-## Screenshots
-
-Add actual screenshots from the deployed website here after capturing them. Suggested views: Login, Home, Civic Actions, Report Issue, Challenges, and Profile.
-
-<!-- Example once screenshots are committed:
-![Nagrik Home Dashboard](docs/screenshots/home-dashboard.png)
--->
-
-## Validation Status
-
-| Check | Status |
-|---|---|
-| Vercel build and initial page rendering | ✅ Confirmed via deployment screen |
-| Email/password account creation | ✅ Confirmed on hosted web app |
-| Login and authenticated Home dashboard | ✅ Confirmed on hosted web app |
-| Responsive desktop design | 🟡 Needs refinement |
-| Issue submissions and cross-device data sync | 🟡 Not yet verified |
-| Photo uploads and device permissions | 🟡 Not yet verified |
-| Challenges, XP persistence, and leaderboards | 🟡 Not yet verified |
-| Production-grade AI assistant | 🔲 Future improvement |
-| Automated end-to-end browser tests | 🔲 Future improvement |
-
-## Roadmap
-
-- [ ] Improve responsive desktop layouts and navigation.
-- [ ] Verify account recovery, signup, login, logout, and session persistence.
-- [ ] Test photo uploads and issue reporting in web and Android environments.
-- [ ] Move appropriate civic reports and profiles to secured Firestore collections with ownership-aware security rules.
-- [ ] Add moderation, spam controls, and privacy-safe handling of location/media.
-- [ ] Create an opt-in, privacy-aware public civic issue dashboard with aggregate analytics.
-- [ ] Add a clearly evaluated AI feature, such as issue categorization or duplicate-report detection.
-- [ ] Implement accessibility checks, automated tests, and production monitoring.
-- [ ] Publish verified UI screenshots and a short product walkthrough.
-
-## Responsible Use & Limitations
-
-- Nagrik is an **independent civic-tech prototype**, not a municipal grievance portal or an official channel to authorities.
-- Current sample alerts, civic challenges, XP, and impact indicators should not be interpreted as verified community outcomes.
-- The existing civic assistant responds using keyword-based rules. It is **not** powered by a deployed large language model.
-- Prototype local storage is not equivalent to server-side synchronization or durable cloud backups.
-- Avoid uploading personal documents, sensitive location details, or photos of uninvolved people until privacy and moderation controls are in place.
-
-## Author
-
-**Hritik Mathur**  
-MS in Data Science · Pace University, New York  
-Background in network engineering and automation; interests include applied AI, data engineering, and product development.
-
-**[GitHub](https://github.com/mathurhritik2507)** · **[LinkedIn](https://www.linkedin.com/in/hritikmathur/)**
-
----
+## 14. GitHub Activity
 
 <div align="center">
 
-**Nagrik — Small civic actions, stronger communities. 🇮🇳**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathurhritik2507&show_icons=true&hide_border=true)
 
-[Try the Web App](https://nagrik-eight.vercel.app) · [View Source](https://github.com/mathurhritik2507/Nagrik)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurhritik2507&layout=compact&hide_border=true)
+
+</div>
+
+*These cards come from a third-party GitHub statistics service and may occasionally be unavailable. Language breakdown reflects public repository code, not a proficiency ranking.*
+
+## 15. Opportunities & Collaboration
+
+I am interested in early-career opportunities and collaboration involving:
+
+- Data Science and applied machine learning.
+- Data Engineering and analytics engineering.
+- AI/ML engineering and intelligent application development.
+- Customer-facing applied AI and forward-deployed engineering.
+- Data products that connect technical systems with measurable business value.
+
+I especially enjoy discussing problems where domain understanding and sound engineering matter as much as model selection.
+
+## 16. Connect With Me
+
+<div align="center">
+
+### Let's build useful things with data.
+
+[![GitHub](https://img.shields.io/badge/GitHub-mathurhritik2507-181717?style=for-the-badge&logo=github)](https://github.com/mathurhritik2507)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hritik_Mathur-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hritikmathur/)
+[![Nagrik Demo](https://img.shields.io/badge/Explore-Nagrik-FF6B00?style=for-the-badge)](https://nagrik-eight.vercel.app)
+
+**Data Engineering · Data Science · Applied AI**
 
 </div>
