@@ -1,181 +1,138 @@
-<h1 align="center">Hi 👋, I'm Hritik Mathur</h1>
+[README.md](https://github.com/user-attachments/files/33275308/README.md)
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2600&pause=900&center=true&vCenter=true&width=950&lines=Aspiring+Data+Scientist;MS+Data+Science+Student+%7C+Pace+University;Former+Network+Engineer+with+3%2B+Years+Experience;Building+ML%2C+Forecasting+and+AWS+Analytics+Projects;Python+%7C+SQL+%7C+Machine+Learning+%7C+Cloud+Analytics" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=190&section=header&text=Hritik%20Mathur&fontSize=48&fontColor=ffffff&fontAlignY=37&desc=Data%20Engineering%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Applied%20AI&descAlignY=60&descSize=17" alt="Hritik Mathur — Data Engineering, Data Science, Applied AI" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hritik-mathur-05265a191">
-    <img src="https://img.shields.io/badge/LinkedIn-Hritik%20Mathur-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/mathurhritik2507-collab">
-    <img src="https://img.shields.io/badge/GitHub-mathurhritik2507--collab-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:mathurhritik2507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mathurhritik2507%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&lines=Python+%2B+SQL+%2B+AWS;From+telecom+engineering+to+data-driven+systems;Building+cloud+analytics+and+machine+learning+projects;M.S.+Data+Science+%40+Pace+University+%7C+May+2027" alt="Animated professional introduction" /></a>
 
----
+**M.S. Data Science @ Pace University (May 2027)** · **Former Network Automation Engineer @ Vodafone Idea**  
+📍 Jersey City, NJ · Open to full-time U.S. opportunities starting **Summer 2027**
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritikmathur/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathurhritik2507@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathurhritik2507-collab?tab=repositories)
+[![Research](https://img.shields.io/badge/Research-Read%20Paper-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholarworks.sjsu.edu/libphilprac/5584/)
 
-I am an **MS Data Science student at Pace University** with **3+ years of professional experience** in network engineering, automation, incident troubleshooting, and technical operations.
-
-My current focus is on building practical data science projects in **machine learning, time series forecasting, AWS cloud analytics, WEKA-based classification, and network incident data analysis**. I enjoy converting raw data into clear insights, building structured analytical workflows, and applying data-driven thinking to real-world technical problems.
-
-- 🎓 **MS Data Science** — Pace University  
-- 💼 Former **Network Engineer / Assistant Manager** at Vodafone Idea Limited  
-- 📍 Based in Jersey City, New Jersey  
-- 🔬 Research publication with **700+ downloads**  
-- 📊 Interested in **Data Science, Machine Learning, Forecasting, Cloud Analytics, and AI**  
-- 🚀 Actively building a professional Data Science portfolio  
+</div>
 
 ---
 
-## 🛠️ Technical Skillset
+### `> whoami`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-F9A03C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+I'm **Hritik**, a Data Science master's student with nearly **three years of professional experience** in telecom network engineering, monitoring, incident analysis, and cross-functional operations at **Vodafone Idea Limited**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prophet-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SARIMA-6A5ACD?style=for-the-badge" />
-</p>
+My work connects **production systems and data**: understanding operational metrics, investigating failures, processing datasets, and building practical tools with Python, SQL, AWS, and machine learning. I'm especially interested in **data engineering, analytics, applied ML, and intelligent systems**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/WEKA-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</p>
+- 🔧 **Engineering background:** telecom infrastructure, KPIs, reliability, operational analytics
+- ☁️ **Building:** cloud-based data workflows and reproducible analytics projects
+- 🤖 **Exploring:** machine learning, NLP, robotic perception, and artificial senses
+- 🎯 **Seeking:** full-time Data Engineer, Data Scientist, or Analytics roles after graduation in **May 2027**
 
----
+### `> tech_stack --core`
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 📈 Time Series Forecasting Using Python
+<img src="https://skillicons.dev/icons?i=python,aws,linux,git,github,mysql,postgres,mongodb,firebase,react,fastapi&perline=11" alt="Python, AWS, Linux, Git, GitHub, MySQL, PostgreSQL, MongoDB, Firebase, React and FastAPI" />
 
-Built forecasting models using **SARIMA and Prophet** to analyze monthly trends, seasonality, prediction accuracy, and model limitations.
+</div>
 
-**Tech Stack:** Python, Pandas, Matplotlib, Statsmodels, SARIMA, Prophet, Jupyter Notebook  
+| Focus | Tools & concepts |
+|:--|:--|
+| **Data & analytics** | Python, SQL, Pandas, NumPy, data cleaning, EDA, KPI analysis |
+| **Data engineering** | AWS S3, EMR, Hive, SQL transformations, ETL fundamentals, data validation |
+| **Machine learning** | scikit-learn, XGBoost, classification, model evaluation, forecasting |
+| **Applications** | React Native, Firebase, FastAPI, MongoDB |
+| **Engineering workflow** | Linux, Git, GitHub, Jupyter, technical documentation |
 
-**Key Highlights:**
-- Performed time series preprocessing and date-based indexing  
-- Analyzed trend, seasonality, and forecasting patterns  
-- Compared forecasting outputs and identified model limitations  
+### `> featured_projects`
 
----
+<table>
+<tr><td width="50%" valign="top">
 
-### ☁️ AWS Big Data Analytics Pipeline
+**✈️ Flight Delay Classification**  
+`Python` `scikit-learn` `XGBoost`
 
-Designed and executed a cloud-based analytics pipeline using **AWS S3 and EC2** to store datasets, run Python processing workflows, and analyze structured data in a scalable cloud environment.
+Explored flight-delay prediction using historical airline data, feature engineering, and multiple classification approaches. Compared performance using precision, recall, F1-score, and confusion matrices.
 
-**Tech Stack:** AWS S3, AWS EC2, Python, Pandas, Cloud Analytics, Data Processing  
+</td><td width="50%" valign="top">
 
-**Key Highlights:**
-- Built an end-to-end cloud data processing workflow  
-- Used AWS services for dataset storage and remote execution  
-- Generated visual outputs and documented cloud analytics results  
+**☁️ AWS Airline Analytics**  
+`AWS S3` `EMR` `Hive` `SQL`
 
----
+Configured cloud resources, organized airline data in S3, created Hive tables, and wrote analytical queries for operational reporting and data exploration.
 
-### 🤖 WEKA Machine Learning Classification
+</td></tr>
+<tr><td width="50%" valign="top">
 
-Developed WEKA-based machine learning workflows using **ARFF datasets, Naive Bayes, SVM/SMO, clustering, confusion matrix, and error visualization**.
+**📱 Nagrik — Civic Engagement App**  
+`React Native` `Firebase` `AI moderation`
 
-**Tech Stack:** WEKA, ARFF, Naive Bayes, SMO/SVM, K-Means, EM, Confusion Matrix  
+Built an application for geotagged civic reports, authentication, media uploads, verification workflows, engagement features, and AI-assisted moderation.
 
-**Key Highlights:**
-- Prepared and processed datasets in ARFF format  
-- Evaluated classifiers using accuracy, MAE, RMSE, and confusion matrix  
-- Visualized classification errors and interpreted model performance  
+</td><td width="50%" valign="top">
 
----
+**📈 Time Series Forecasting**  
+`Python` `Prophet` `SARIMA`
 
-### 🌐 Network Incident Data Analysis
+Analyzed temporal patterns, trend and seasonality, compared forecasting methods, and visualized model predictions and evaluation results.
 
-Analyzed simulated firewall, VPN, and network incident logs using **Python and Pandas** to identify recurring issue categories, severity patterns, root causes, and resolution-time trends.
+</td></tr>
+</table>
 
-**Tech Stack:** Python, Pandas, Matplotlib, Network Logs, Incident Analysis  
+> **Code and documentation:** Browse my [repositories](https://github.com/mathurhritik2507-collab?tab=repositories) and pinned projects. I prioritize clear methodology, reproducible results, and honest reporting of model performance.
 
-**Key Highlights:**
-- Connected network engineering experience with data analytics  
-- Analyzed incident severity and resolution-time trends  
-- Created structured insights from operational troubleshooting data  
+### `> professional_experience`
 
----
+**Vodafone Idea Limited** · *Network Automation Engineer / Assistant Manager* · **2022–2024**
 
-## 🔬 Research & Academic Work
+- Analyzed operational and security telemetry across **1,000+ endpoints** and **3,000+ users**.
+- Supported incident analysis and improvements associated with reducing resolution time from **8 hours to under 2 hours**.
+- Contributed to network performance improvements of **15–20%** and security initiatives associated with **40% fewer unauthorized access attempts**.
+- Worked across operations, security, and vendor teams supporting high-availability telecom infrastructure.
 
-Published research paper with **700+ downloads**, reflecting academic visibility, technical relevance, and continued engagement from researchers and industry readers.
+**Tata AutoComp Systems** · *Research Engineering Internship* · **2022**
 
-Areas of interest include:
+- Investigated automotive semiconductor technologies, sensors, and embedded-electronics applications.
+- Compared technical specifications, documented findings, and communicated engineering research.
 
-- Applied Machine Learning  
-- Cloud Databases  
-- Automotive Semiconductor Systems  
-- Data-Driven Research  
-- AI and Analytics  
+### `> research_publication`
 
----
+📄 **[Bibliometric analysis on hand gesture firefighter assistance robots](https://scholarworks.sjsu.edu/libphilprac/5584/)**  
+Published research exploring trends in gesture-controlled robotics and firefighter-assistance technologies. **700+ reported downloads.**
 
-## 📊 GitHub Stats
+My longer-term interests include **robotic perception**, **electronic-nose systems**, and other artificial senses for intelligent machines.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathurhritik2507-collab&show_icons=true&theme=default&hide_border=true" />
-</p>
+### `> github_activity`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathurhritik2507-collab&layout=compact&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mathurhritik2507-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathurhritik2507-collab&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub repository language statistics" />
+
+<img src="https://streak-stats.demolab.com?user=mathurhritik2507-collab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+### `> contribution_snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathurhritik2507-collab/mathurhritik2507-collab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathurhritik2507-collab/mathurhritik2507-collab/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake, available after the GitHub Actions workflow completes" src="https://raw.githubusercontent.com/mathurhritik2507-collab/mathurhritik2507-collab/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-## 📌 Current Focus
+<div align="center">
 
-- Building professional Data Science portfolio projects  
-- Improving machine learning and forecasting skills  
-- Applying cloud analytics using AWS  
-- Connecting network engineering experience with data-driven operations  
-- Preparing for Data Scientist and Data Analyst roles  
+**Build reliable systems. Ask better questions. Make data useful.**
 
----
+[LinkedIn](https://www.linkedin.com/in/hritikmathur/) · [Repositories](https://github.com/mathurhritik2507-collab?tab=repositories) · [Email](mailto:mathurhritik2507@gmail.com) · [Research paper](https://scholarworks.sjsu.edu/libphilprac/5584/)
 
-## 📫 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=95&section=footer" alt="Decorative footer" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hritik-mathur-05265a191">
-    <img src="https://img.shields.io/badge/LinkedIn-Hritik%20Mathur-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mathurhritik2507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mathurhritik2507%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/mathurhritik2507-collab">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Turning data into insights, and insights into action.</b>
-</p>
+</div>
