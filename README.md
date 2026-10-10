@@ -2,6 +2,8 @@
 
 # Hi, I'm Hritik Mathur 👋
 
+[![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Engineering+%7C+Data+Science+%7C+Applied+AI;Former+Network+Automation+Engineer;Building+Practical+AI+and+Data+Products)](https://git.io/typing-svg)
+
 ### Data Engineering | Data Science | Applied AI
 
 **MS in Data Science · Pace University, New York**  
