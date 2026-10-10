@@ -1,199 +1,149 @@
-<div align="center">
+<!-- ========================= ANIMATED HEADER ========================= -->
 
-# Hritik Mathur
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hritik%20Mathur&fontSize=58&fontAlignY=35&desc=Data%20Engineering%20%7C%20Data%20Science%20%7C%20Applied%20AI&descAlignY=55&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-### Data Engineering | Data Science | Applied AI
+<!-- ========================= TYPING ANIMATION ========================= -->
 
-**MS Data Science @ Pace University | Former Network Engineer @ Vodafone**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=MS+Data+Science+%40+Pace+University;Former+Network+Engineer+%40+Vodafone;Python+%7C+SQL+%7C+AWS+%7C+Machine+Learning;Data+Engineering+%7C+Applied+AI;Forward+Deployed+Engineering;Building+reliable+data+systems+and+useful+AI"
+    alt="Typing SVG"
+  />
+</p>
 
-Building reliable data systems, machine learning solutions, and useful AI applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hritik%20Mathur-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritikmathur/)
-[![GitHub](https://img.shields.io/badge/GitHub-mathurhritik2507-181717?logo=github&logoColor=white)](https://github.com/mathurhritik2507)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white)](mailto:mathurhritik2507@gmail.com)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Data Science graduate student at Pace University** with **3 years of professional engineering experience at Vodafone Idea**, where I worked with large-scale production systems, network operations, KPI monitoring, automation, troubleshooting, and performance analysis.
-
-My experience in production engineering led me deeper into data science, data engineering, and applied AI. I enjoy working on problems that combine **data, software, machine learning, cloud infrastructure, and real-world decision-making**.
-
-Today, my work focuses on:
-
-- Building scalable **data pipelines and analytical workflows**
-- Developing and evaluating **machine learning models**
-- Working with **Python, SQL, AWS, Spark, Hive, and big-data systems**
-- Building **AI-powered applications and LLM-enabled workflows**
-- Turning technical and operational data into actionable insights
-- Designing reliable technical solutions across engineering and business teams
-
-I'm particularly interested in opportunities across **Data Science, Data Engineering, Applied AI, Machine Learning, and Forward Deployed Engineering**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hritikmathur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hritik%20Mathur-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mathurhritik2507">
+    <img src="https://img.shields.io/badge/GitHub-mathurhritik2507-181717?logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 01 / ABOUT ME
 
-### Programming & Data
-`Python` `SQL` `R` `Bash` `Pandas` `NumPy` `Jupyter`
+<img
+  align="right"
+  width="310"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathurhritik2507&layout=compact&hide_border=true"
+/>
 
-### Machine Learning & AI
-`Scikit-learn` `XGBoost` `Regression` `Classification` `Clustering`  
-`NLP` `Feature Engineering` `Model Evaluation` `Time Series Forecasting`  
-`LLM Applications` `Prompt Engineering` `AI Evaluation`
+I'm **Hritik Mathur**, a Data Science graduate student at **Pace University** with **3 years of professional engineering experience at Vodafone Idea**.
 
-### Data Engineering & Big Data
-`ETL` `Data Pipelines` `Apache Spark` `PySpark` `Hive`  
-`Data Validation` `Distributed Processing`
+My background gives me experience on both sides of the technology stack:
 
-### Cloud & Engineering
-`AWS S3` `EC2` `EMR` `Lambda` `Glue` `Athena`  
-`Docker` `Linux` `Git` `GitHub`
+**Production Engineering → Data → Machine Learning → Applied AI**
 
-### Visualization & Analytics
-`Power BI` `Tableau` `Matplotlib` `Streamlit`
+At Vodafone, I worked with large-scale production systems, KPI monitoring, troubleshooting, automation, traffic analysis, and cross-functional technical operations.
 
----
+Today, I focus on building:
 
-## 🚀 Featured Work
+- Scalable data pipelines and analytics workflows
+- Machine learning and forecasting solutions
+- AI-powered applications
+- Cloud-based data systems
+- Reliable APIs and backend workflows
+- Data-driven solutions for real-world problems
 
-### 🏙️ Nagrik — AI-Powered Civic Engagement Platform
-
-Built a civic engagement application combining mobile development, cloud-backed application data, and AI-assisted user interaction.
-
-**Highlights**
-- Developed a civic-tech application using React Native, Expo, Firebase Authentication, and Firestore
-- Integrated AI-assisted civic guidance and content moderation workflows
-- Designed gamification features including civic scores, XP, badges, and engagement streaks
-- Tested AI outputs across normal and edge-case scenarios to improve reliability and contextual behavior
-
----
-
-### ✈️ Flight Delay Prediction & Classification
-
-Developed an end-to-end machine learning workflow for analyzing and predicting airline delays.
-
-**Highlights**
-- Cleaned and transformed structured airline datasets using Python
-- Performed exploratory analysis and feature engineering
-- Compared multiple classification approaches including Logistic Regression, KNN, Naive Bayes, and XGBoost
-- Evaluated model performance and interpreted results for practical decision-making
-
----
-
-### ☁️ AWS Big Data Analytics Pipeline
-
-Built a cloud-based data processing workflow for large structured datasets.
-
-**Highlights**
-- Used Amazon S3 as the data storage layer
-- Processed datasets using AWS EMR and Hive
-- Performed transformation and validation with Python and SQL
-- Designed reusable analytical datasets for downstream machine learning and reporting
-
----
-
-### 📄 AI-Powered ATS Resume Analyzer
-
-Developed an application for analyzing resumes against job descriptions using NLP and AI techniques.
-
-**Highlights**
-- Extracted and processed resume and job-description text
-- Applied NLP-based matching and keyword analysis
-- Designed scoring logic for identifying skill and requirement alignment
-- Built an interactive workflow for presenting recommendations and match insights
-
----
-
-### 📈 Time Series Forecasting
-
-Explored forecasting techniques for understanding temporal patterns and predicting future observations.
-
-**Highlights**
-- Prepared and analyzed time-series data using Python
-- Investigated trends, seasonality, and temporal behavior
-- Developed forecasting workflows and evaluated prediction quality
-- Visualized forecast results and interpreted model performance
-
----
-
-## 💼 Professional Experience
-
-### Vodafone Idea Limited
-**Network Automation Engineer / Assistant Manager**
-
-- Worked with large-scale production telecom systems and operational data
-- Monitored network KPIs, traffic behavior, incidents, and service performance
-- Used Python and Bash scripting to support automation and reduce repetitive operational work
-- Performed troubleshooting, root-cause investigation, and performance analysis
-- Coordinated technical activities across internal teams, vendors, and external stakeholders
-- Supported network changes, upgrades, traffic movement, and service optimization
-
-My production engineering background gives me experience with something I continue to value in data and AI systems today:
-
-> **Reliability, monitoring, scalability, debugging, and measurable impact matter as much as the model itself.**
-
----
-
-## 🔬 Research
-
-### 📄 [Bibliometric analysis on Hand Gesture Controlled Robot](https://digitalcommons.unl.edu/libphilprac/5584)
-
-Co-authored published research analyzing trends and developments in hand-gesture-controlled robotics.
-
-- Conducted structured literature and bibliometric analysis
-- Evaluated research trends, technologies, institutions, and publication patterns
-- Worked with research visualization and technical analysis
-- **700+ reported downloads**
-
-**Research interests:** robotic perception, electronic-nose systems, artificial senses, intelligent machines, and AI-enabled robotics.
-
----
-
-## 🎯 What I'm Exploring
-
-I'm especially interested in engineering and research problems involving:
-
-- Applied AI and LLM-powered applications
-- Forward deployed AI and technical customer solutions
-- Data-intensive production systems
-- ML and analytics pipelines
-- Agentic AI workflows
-- AI evaluation and reliability
-- Intelligent automation
-- Robotic perception and artificial senses
-
----
-
-## 📚 Currently Strengthening
-
-- Advanced SQL and analytical problem solving
-- Production-oriented Python
-- Data modeling and distributed data systems
-- Machine learning system design
-- RAG, embeddings, and vector retrieval
-- LLM evaluation and guardrails
-- AI agents and tool-calling workflows
-- Cloud-native data and AI architectures
-
----
-
-## 🤝 Let's Connect
-
-I'm currently pursuing opportunities beginning in **2027** across:
+I'm especially interested in:
 
 **Data Science • Data Engineering • Applied AI • Machine Learning • Forward Deployed Engineering**
 
-<div align="center">
+<br clear="right"/>
 
-### Building reliable data systems and useful AI applications.
+---
 
-[Connect on LinkedIn](https://www.linkedin.com/in/hritikmathur/) ·
-[Explore Projects](https://github.com/mathurhritik2507?tab=repositories) ·
-[Research Publication](https://digitalcommons.unl.edu/libphilprac/5584) ·
-[Email Me](mailto:mathurhritik2507@gmail.com)
+# 02 / TECH STACK
 
-</div>
+### Languages & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,bash" />
+</p>
+
+`SQL` • `Pandas` • `NumPy` • `Jupyter`
+
+### Machine Learning & AI
+
+`Scikit-learn` • `XGBoost` • `Regression` • `Classification`  
+`Clustering` • `NLP` • `Time Series Forecasting`  
+`Feature Engineering` • `Model Evaluation`  
+`LLM Applications` • `Prompt Engineering` • `AI Evaluation`
+
+### Data Engineering
+
+`ETL` • `Data Pipelines` • `Apache Spark` • `PySpark`  
+`Hive` • `Distributed Processing` • `Data Validation`
+
+### Cloud & Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,firebase,mongodb" />
+</p>
+
+`Amazon S3` • `EC2` • `EMR` • `Lambda` • `Glue` • `Athena`
+
+### Analytics & Visualization
+
+`Power BI` • `Tableau` • `Matplotlib` • `Streamlit`
+
+---
+
+# 03 / FEATURED PROJECTS
+
+## 🏙️ Nagrik — AI-Powered Civic Engagement Platform
+
+An AI-enabled civic technology platform designed to help citizens interact with civic information and report local issues.
+
+**What I worked on**
+
+- Built mobile application workflows using React Native and Firebase
+- Integrated an LLM-based assistant for civic guidance
+- Developed AI-assisted moderation for user-generated reports
+- Tested model behavior across normal and edge-case scenarios
+- Designed civic scoring, XP, badges, and engagement functionality
+- Improved AI reliability through prompt refinement and validation logic
+
+---
+
+## ✈️ Flight Delay Prediction & Classification
+
+End-to-end machine learning project focused on understanding and predicting airline delays.
+
+**What I worked on**
+
+- Cleaned and transformed structured airline datasets using Python
+- Performed exploratory data analysis and feature engineering
+- Trained Logistic Regression, Naive Bayes, KNN, and XGBoost models
+- Compared model performance using appropriate evaluation metrics
+- Investigated important variables contributing to delays
+- Converted model results into understandable analytical insights
+
+---
+
+## ☁️ AWS Big Data Analytics Pipeline
+
+Cloud-based data processing and analytics workflow for large structured datasets.
+
+**Architecture**
+
+```text
+Raw Data
+   ↓
+Amazon S3
+   ↓
+AWS EMR
+   ↓
+Hive / Distributed Processing
+   ↓
+Python + SQL Validation
+   ↓
+Analytics / ML-ready datasets
