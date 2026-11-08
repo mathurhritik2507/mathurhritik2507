@@ -136,7 +136,7 @@ Visit the repository for the current implementation, supported features, and usa
 
 Built a two-phase flight-delay analytics workflow using **Amazon S3, AWS EMR, Apache Hive, Python, pandas, and scikit-learn**. Loaded and queried 2008 airline data, analyzed airport/carrier delay patterns, exported a validated 50,000-row Hive sample, and trained/evaluated a Logistic Regression classifier. See the repository for reproducible steps and caveats.
 
-## 17. Additional Data Science & Analytics Projects
+## 10. Additional Data Science & Analytics Projects
 
 | Project | Repository | Focus |
 |---|---|---|
@@ -149,7 +149,7 @@ Built a two-phase flight-delay analytics workflow using **Amazon S3, AWS EMR, Ap
 
 *The linked repositories contain the implementation-specific documentation and current development status for each project.*
 
-## 10. Professional Experience — Vodafone Idea Limited
+## 11. Professional Experience — Vodafone Idea Limited
 
 **Former Network Automation Engineer | Telecommunications**
 
@@ -162,14 +162,14 @@ My professional experience connects operational engineering with data-driven ana
 
 This experience shapes projects such as NetOps AI: I approach ML systems by thinking about operational context, false alarms, practical usability, and how predictions would support human decision-makers.
 
-## 11. Education
+## 12. Education
 
 **Master of Science in Data Science**  
-Pace University · New York, USA
+Pace University · New York, USA · Expected May 2027
 
 My academic work supports interests in statistical learning, model selection, data analysis, machine learning, and practical programming.
 
-## 12. How I Build Projects
+## 13. How I Build Projects
 
 ```mermaid
 flowchart LR
@@ -189,7 +189,7 @@ I aim to make each portfolio project easy to explore:
 - A usable interface or tangible output where appropriate.
 - Transparent limitations and next steps.
 
-## 13. Current Learning & Development
+## 14. Current Learning & Development
 
 - ML modeling and performance evaluation.
 - Time-series forecasting and anomaly detection.
@@ -198,7 +198,7 @@ I aim to make each portfolio project easy to explore:
 - Integrating trustworthy AI capabilities into useful products.
 - Strengthening testing, documentation, and production-readiness.
 
-## 14. GitHub Activity
+## 15. GitHub Activity
 
 <div align="center">
 
@@ -210,7 +210,7 @@ I aim to make each portfolio project easy to explore:
 
 *These cards come from a third-party GitHub statistics service and may occasionally be unavailable. Language breakdown reflects public repository code, not a proficiency ranking.*
 
-## 15. Opportunities & Collaboration
+## 16. Opportunities & Collaboration
 
 I am interested in early-career opportunities and collaboration involving:
 
@@ -222,7 +222,7 @@ I am interested in early-career opportunities and collaboration involving:
 
 I especially enjoy discussing problems where domain understanding and sound engineering matter as much as model selection.
 
-## 16. Connect With Me
+## 17. Connect With Me
 
 <div align="center">
 
