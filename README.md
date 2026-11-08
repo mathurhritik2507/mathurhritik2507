@@ -6,7 +6,7 @@
 
 ### Data Engineering | Data Science | Applied AI
 
-**MS in Data Science · Pace University, New York**  
+**M.S. Data Science · Pace University, New York · Expected May 2027**  
 **Former Network Automation Engineer · Vodafone Idea Limited**
 
 Building practical machine learning systems, data pipelines, and applications that connect data to real-world decisions.
@@ -27,7 +27,12 @@ My work experience introduced me to performance monitoring, network KPIs, traffi
 
 I enjoy projects that move beyond a notebook: reproducible pipelines, interactive applications, transparent evaluation, and clear documentation.
 
-## 2. What I'm Working On
+## 2. What I'm Working On (November 2026)
+
+- **Foundry AI:** prototyping an AI-assisted startup discovery and founder collaboration network; currently a local demo, not a launched service. [Repository](https://github.com/mathurhritik2507/foundry-ai).
+- **NetOps AI:** improving simulated telecom incident-risk prediction and anomaly detection, including reproducible evaluation and CI. [Repository](https://github.com/mathurhritik2507/ai-network-incident-prediction).
+- **Nagrik:** testing civic engagement web/mobile flows and refining the public demo; some advanced features remain in preview rather than production. [Repository](https://github.com/mathurhritik2507/Nagrik).
+- **AWS flight-delay analytics:** maintaining the S3/EMR/Hive pipeline and its Python classification workflow. [Repository](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline).
 
 - **Applied machine learning:** anomaly detection, predictive modeling, evaluation, and explainability.
 - **Data engineering:** cloud pipelines, transformations, and analytics workflows.
@@ -100,11 +105,24 @@ Nagrik is an independent civic-tech application designed to encourage community 
 
 **Recent upgrades:** restored the Expo package manifest, introduced browser-specific Firebase authentication, improved visible login/signup error handling, added Vercel configuration, and deployed a public web preview.
 
-**Current status:** Signup, login, and the Home dashboard were confirmed on the public website. Other features, browser-specific media handling, and cross-device synchronization still need full end-to-end validation. The civic assistant currently uses keyword-based rules, not a hosted generative AI model.
+**Current status:** The signed-in beta and public guest demo are separate experiences. The guest Civic Guide provides prepared guidance, not generative AI. Features such as photo-proof verification, moderation, community synchronization, and rewards need further production validation. The upgraded beta is not yet merged into the production site.
 
 > Nagrik is a beta portfolio application, not an official municipal reporting service. Sample alerts and XP values should not be treated as verified civic outcomes.
 
-## 7. Featured Project — AI ATS Resume Analyzer
+## 7. Current Build — Foundry AI: Founder Network Prototype
+
+**[Repository](https://github.com/mathurhritik2507/foundry-ai)** · JavaScript/TypeScript · Web application prototype · AI-assisted product concept
+
+An early-stage concept for a global founder network where entrepreneurs can share progress, explore opportunities, and find collaborators.
+
+- Local starter includes a startup feed, founder discovery, demo profiles, and founder updates.
+- An optional assistant is part of the prototype experience.
+- Current demo content and browser-local storage are not shared across users.
+- Planned, **not yet shipped**: persistent database, authentication, consent-based introductions, moderation, and production deployment.
+
+> **Status:** Development prototype only; not a production social network or an autonomous agent platform.
+
+## 8. Featured Project — AI ATS Resume Analyzer
 
 **[Repository](https://github.com/mathurhritik2507/ai-ats-resume-analyzer)**
 
@@ -112,19 +130,17 @@ A portfolio project exploring AI-assisted resume analysis and job-description al
 
 Visit the repository for the current implementation, supported features, and usage instructions.
 
-## 8. Featured Project — AWS Big Data Analytics Pipeline
+## 9. Featured Project — AWS Big Data Analytics Pipeline
 
 **[Repository](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline)**
 
-A cloud data-engineering portfolio project focused on analytics-pipeline concepts and AWS-oriented workflows.
+Built a two-phase flight-delay analytics workflow using **Amazon S3, AWS EMR, Apache Hive, Python, pandas, and scikit-learn**. Loaded and queried 2008 airline data, analyzed airport/carrier delay patterns, exported a validated 50,000-row Hive sample, and trained/evaluated a Logistic Regression classifier. See the repository for reproducible steps and caveats.
 
-This project represents my interest in moving data from ingestion and transformation toward analysis and business decisions. See the repository for its exact architecture and implementation details.
-
-## 9. Additional Data Science & Analytics Projects
+## 17. Additional Data Science & Analytics Projects
 
 | Project | Repository | Focus |
 |---|---|---|
-| Financial Data Forecasting | [Forecasting Financial Data in Real Time](https://github.com/mathurhritik2507/Forecasting-Financial-Data-in-Real-Time) | Financial time-series analytics |
+| Financial Data Forecasting (work in progress) | [Forecasting Financial Data in Real Time](https://github.com/mathurhritik2507/Forecasting-Financial-Data-in-Real-Time) | Financial time-series analytics |
 | Time Series Forecasting | [time-series-forecasting-python](https://github.com/mathurhritik2507/time-series-forecasting-python) | Forecasting methods in Python |
 | Network Incident Data Analysis | [network-incident-data-analysis](https://github.com/mathurhritik2507/network-incident-data-analysis) | Operational KPI analysis |
 | Weka ML Classification | [weka-machine-learning-classification](https://github.com/mathurhritik2507/weka-machine-learning-classification) | Classification workflows |
