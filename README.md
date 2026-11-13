@@ -1,237 +1,68 @@
 <div align="center">
 
-# Hi, I'm Hritik Mathur 👋
+# Hritik Mathur
+### Data Engineering · Data Science · Applied AI
 
-[![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Engineering+%7C+Data+Science+%7C+Applied+AI;Former+Network+Automation+Engineer;Building+Practical+AI+and+Data+Products)](https://git.io/typing-svg)
+**M.S. Data Science, Pace University (May 2027)** · **Former Network Engineer, Vodafone Idea**
 
-### Data Engineering | Data Science | Applied AI
+I build data pipelines, machine learning workflows, and useful applications grounded in real engineering problems.
 
-**M.S. Data Science · Pace University, New York · Expected May 2027**  
-**Former Network Automation Engineer · Vodafone Idea Limited**
-
-Building practical machine learning systems, data pipelines, and applications that connect data to real-world decisions.
-
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/mathurhritik2507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hritikmathur/)
-[![Nagrik](https://img.shields.io/badge/Live_App-Nagrik-FF6B00?style=for-the-badge&logo=vercel)](https://nagrik-eight.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github)](https://github.com/mathurhritik2507/data-science-portfolio)
+[![Nagrik](https://img.shields.io/badge/Nagrik-Web_Beta-FF6B00?style=for-the-badge)](https://nagrik-eight.vercel.app/login)
 
 </div>
+
+## About
+
+I'm pursuing an M.S. in Data Science at Pace University in New York, graduating in **May 2027**. Before graduate school, I spent approximately three years at **Vodafone Idea Limited**, working on telecommunications operations, network performance, KPI monitoring, incident response, and technical coordination. I also have research experience from Tata AutoComp Systems.
+
+My focus is the intersection of **Python, SQL, cloud data engineering, applied machine learning, and production-minded software development**. I'm interested in Data Scientist, Data Engineer, Applied AI/ML Engineer, Analytics Engineer, and Forward Deployed Engineer opportunities with a **Summer 2027** start.
+
+## Selected Work
+
+| Project | What it demonstrates | Links |
+|---|---|---|
+| **NetOps AI — Incident Intelligence** | Telecom KPI-based incident classification; Isolation Forest anomaly detection; synthetic telemetry, holdout evaluation, tests, and Streamlit dashboards | [Code](https://github.com/mathurhritik2507/ai-network-incident-prediction) |
+| **AWS Big Data Analytics** | S3 + EMR + Hive analytics for flight delays; Python preprocessing and classification workflow | [Code](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline) |
+| **Nagrik — Civic Engagement** | React Native / Expo / Firebase application with civic reporting, challenges, and browser beta | [Code](https://github.com/mathurhritik2507/Nagrik) · [Web beta](https://nagrik-eight.vercel.app/login) |
+| **Swipe to Help** | Moderated assistance/startup discovery platform concept; production-source synchronization remains in progress | [Code and status](https://github.com/mathurhritik2507/swipe-to-help) |
+| **Foundry AI** | Early-stage founder discovery and collaboration prototype | [Code](https://github.com/mathurhritik2507/foundry-ai) |
+| **Time Series Forecasting** | Python forecasting and time-series analysis | [Code](https://github.com/mathurhritik2507/time-series-forecasting-python) |
+| **Network Incident Data Analysis** | Exploratory analysis of simulated incident logs, severity, and resolution trends | [Code](https://github.com/mathurhritik2507/network-incident-data-analysis) |
+
+**[Browse the full Data Science portfolio](https://github.com/mathurhritik2507/data-science-portfolio)**
+
+> **NetOps GeoAI:** This is a separate geospatial network-intelligence project concept. The public **NetOps AI** repository above covers incident prediction and anomaly detection; it is **not** represented as the GeoAI application. A dedicated GeoAI repository/demo link will be added when published.
+
+## Technical Toolkit
+
+**Languages & analytics:** Python, SQL, R, pandas, NumPy, statistical analysis, Power BI, Jupyter  
+**Machine learning:** scikit-learn, classification, regression, clustering, anomaly detection, forecasting, model evaluation  
+**Cloud & data:** AWS S3, EMR, Hive, Hadoop, Spark, ETL/data pipelines, MongoDB  
+**Applications & engineering:** Git, GitHub Actions, Streamlit, Firebase, React Native, Expo, Next.js, Vercel
+
+## Engineering Experience
+
+**Vodafone Idea Limited — Network Engineering (~3 years)**
+
+- Analyzed network KPIs, alarms, traffic patterns, and operational incidents to support reliability decisions.
+- Supported troubleshooting and cross-functional coordination across large-scale telecommunications infrastructure.
+- Worked with firewall/VPN operations, security monitoring, change management, and network performance.
+- Contributed to operational improvements, including incident-resolution time reduction from approximately eight hours to under two hours.
+
+## Research & Education
+
+- **M.S., Data Science** — Pace University, New York · Expected **May 2027**
+- **B.E./B.Tech, Electronics & Communication Engineering**
+- **Research publication:** *Bibliometric analysis on hand gesture firefighter assistance robots* — **700+ reported downloads**. [Publication details and portfolio](https://github.com/mathurhritik2507/data-science-portfolio). *(Direct paper URL to be added after verification.)*
 
 ---
 
-## 1. About Me
-
-I'm a Data Science graduate student at **Pace University** with a professional background in telecommunications network automation and operations at **Vodafone Idea Limited**.
-
-My work experience introduced me to performance monitoring, network KPIs, traffic analysis, operational troubleshooting, stakeholder coordination, and data-driven decisions. Today, I apply that foundation to **machine learning, data engineering, analytics, and AI product development**.
-
-I enjoy projects that move beyond a notebook: reproducible pipelines, interactive applications, transparent evaluation, and clear documentation.
-
-## 2. What I'm Working On (November 2026)
-
-- **Foundry AI:** prototyping an AI-assisted startup discovery and founder collaboration network; currently a local demo, not a launched service. [Repository](https://github.com/mathurhritik2507/foundry-ai).
-- **NetOps AI:** improving simulated telecom incident-risk prediction and anomaly detection, including reproducible evaluation and CI. [Repository](https://github.com/mathurhritik2507/ai-network-incident-prediction).
-- **Nagrik:** testing civic engagement web/mobile flows and refining the public demo; some advanced features remain in preview rather than production. [Repository](https://github.com/mathurhritik2507/Nagrik).
-- **AWS flight-delay analytics:** maintaining the S3/EMR/Hive pipeline and its Python classification workflow. [Repository](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline).
-
-- **Applied machine learning:** anomaly detection, predictive modeling, evaluation, and explainability.
-- **Data engineering:** cloud pipelines, transformations, and analytics workflows.
-- **AI-powered applications:** building tools that solve operational or user-facing problems.
-- **Civic technology:** expanding Nagrik into a more accessible community participation platform.
-- **Software engineering practices:** testing, version control, deployment, and documentation.
-
-## 3. Professional Focus
-
-| Area | Interests |
-|---|---|
-| Data Science | Classification, regression, anomaly detection, forecasting, model evaluation |
-| Data Engineering | Data pipelines, ETL/ELT, SQL, cloud analytics, scalable processing |
-| Applied AI | ML-powered workflows, intelligent applications, model integration |
-| Analytics | KPI monitoring, dashboards, exploratory analysis, business insights |
-| Engineering | Python development, GitHub Actions, testing, reproducibility |
-
-## 4. Technical Toolkit
-
-**Languages & analysis**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Machine learning & visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Cloud, applications & workflow**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-*This toolkit reflects the technologies used across my coursework and portfolio; experience varies by tool.*
-
-## 5. Featured Project — NetOps AI: Network Incident Intelligence
-
-**[Repository](https://github.com/mathurhritik2507/ai-network-incident-prediction)** · Python · Scikit-learn · Streamlit · Plotly · GitHub Actions
-
-A telecom-focused machine learning project connecting network performance analysis with incident prediction and anomaly detection.
-
-The repository combines two complementary workflows:
-
-1. **Supervised incident prediction:** Logistic Regression and Random Forest modeling using network KPI and security telemetry features.
-2. **Unsupervised anomaly detection:** Isolation Forest over synthetic traffic, latency, packet loss, CPU, and availability metrics.
-
-The anomaly extension adds a reproducible synthetic telemetry generator, chronological holdout evaluation, a separate Streamlit dashboard, and automated tests in GitHub Actions.
-
-**Run the anomaly dashboard locally:**
-
-```bash
-git clone https://github.com/mathurhritik2507/ai-network-incident-prediction.git
-cd ai-network-incident-prediction
-pip install -r requirements.txt
-python train_anomaly.py
-streamlit run anomaly_dashboard.py
-```
-
-> **Evaluation note:** The extension uses synthetic data with injected incidents. Results are prototype evaluation metrics, not validated production network performance.
-
-## 6. Featured Project — Nagrik: Civic Engagement Platform 🇮🇳
-
-**[🚀 Live Web App](https://nagrik-eight.vercel.app)** · **[Source Code](https://github.com/mathurhritik2507/Nagrik)** · React Native · Expo · Firebase · Vercel
-
-Nagrik is an independent civic-tech application designed to encourage community participation through issue reporting, civic action uploads, challenges, XP rewards, and a civic guidance assistant.
-
-**Implemented areas** include:
-
-- Email/password registration and login with Firebase Authentication.
-- Authenticated Home dashboard and application navigation.
-- Civic issue reporting and community action upload interfaces.
-- Challenges, XP and participation-oriented screens.
-- User profile, learning, notifications, and civic impact interfaces.
-- Browser deployment alongside the existing React Native mobile codebase.
-
-**Recent upgrades:** restored the Expo package manifest, introduced browser-specific Firebase authentication, improved visible login/signup error handling, added Vercel configuration, and deployed a public web preview.
-
-**Current status:** The signed-in beta and public guest demo are separate experiences. The guest Civic Guide provides prepared guidance, not generative AI. Features such as photo-proof verification, moderation, community synchronization, and rewards need further production validation. The upgraded beta is not yet merged into the production site.
-
-> Nagrik is a beta portfolio application, not an official municipal reporting service. Sample alerts and XP values should not be treated as verified civic outcomes.
-
-## 7. Current Build — Foundry AI: Founder Network Prototype
-
-**[Repository](https://github.com/mathurhritik2507/foundry-ai)** · JavaScript/TypeScript · Web application prototype · AI-assisted product concept
-
-An early-stage concept for a global founder network where entrepreneurs can share progress, explore opportunities, and find collaborators.
-
-- Local starter includes a startup feed, founder discovery, demo profiles, and founder updates.
-- An optional assistant is part of the prototype experience.
-- Current demo content and browser-local storage are not shared across users.
-- Planned, **not yet shipped**: persistent database, authentication, consent-based introductions, moderation, and production deployment.
-
-> **Status:** Development prototype only; not a production social network or an autonomous agent platform.
-
-## 8. Featured Project — AI ATS Resume Analyzer
-
-**[Repository](https://github.com/mathurhritik2507/ai-ats-resume-analyzer)**
-
-A portfolio project exploring AI-assisted resume analysis and job-description alignment. The goal is to make application feedback clearer and more actionable.
-
-Visit the repository for the current implementation, supported features, and usage instructions.
-
-## 9. Featured Project — AWS Big Data Analytics Pipeline
-
-**[Repository](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline)**
-
-Built a two-phase flight-delay analytics workflow using **Amazon S3, AWS EMR, Apache Hive, Python, pandas, and scikit-learn**. Loaded and queried 2008 airline data, analyzed airport/carrier delay patterns, exported a validated 50,000-row Hive sample, and trained/evaluated a Logistic Regression classifier. See the repository for reproducible steps and caveats.
-
-## 10. Additional Data Science & Analytics Projects
-
-| Project | Repository | Focus |
-|---|---|---|
-| Financial Data Forecasting (work in progress) | [Forecasting Financial Data in Real Time](https://github.com/mathurhritik2507/Forecasting-Financial-Data-in-Real-Time) | Financial time-series analytics |
-| Time Series Forecasting | [time-series-forecasting-python](https://github.com/mathurhritik2507/time-series-forecasting-python) | Forecasting methods in Python |
-| Network Incident Data Analysis | [network-incident-data-analysis](https://github.com/mathurhritik2507/network-incident-data-analysis) | Operational KPI analysis |
-| Weka ML Classification | [weka-machine-learning-classification](https://github.com/mathurhritik2507/weka-machine-learning-classification) | Classification workflows |
-| Public Safety | [Public-Safety-Project](https://github.com/mathurhritik2507/Public-Safety-Project) | Public-safety problem exploration |
-| Data Science Portfolio | [data-science-portfolio](https://github.com/mathurhritik2507/data-science-portfolio) | Collected data science work |
-
-*The linked repositories contain the implementation-specific documentation and current development status for each project.*
-
-## 11. Professional Experience — Vodafone Idea Limited
-
-**Former Network Automation Engineer | Telecommunications**
-
-My professional experience connects operational engineering with data-driven analysis:
-
-- Monitored network KPIs and performance indicators to understand service and operational health.
-- Worked with network traffic patterns, alarm information, and incident-related data to support investigation and decisions.
-- Supported traffic shifting and operational activities requiring coordination across teams and external stakeholders.
-- Participated in troubleshooting, execution planning, and communication of technical activities.
-
-This experience shapes projects such as NetOps AI: I approach ML systems by thinking about operational context, false alarms, practical usability, and how predictions would support human decision-makers.
-
-## 12. Education
-
-**Master of Science in Data Science**  
-Pace University · New York, USA · Expected May 2027
-
-My academic work supports interests in statistical learning, model selection, data analysis, machine learning, and practical programming.
-
-## 13. How I Build Projects
-
-```mermaid
-flowchart LR
-    A[Problem definition] --> B[Data understanding]
-    B --> C[Data preparation]
-    C --> D[Model or application development]
-    D --> E[Evaluation and testing]
-    E --> F[Dashboard or deployment]
-    F --> G[Documentation and iteration]
-```
-
-I aim to make each portfolio project easy to explore:
-
-- A clearly stated problem and intended user.
-- Reproducible setup and training steps where relevant.
-- Thoughtful evaluation rather than unsupported performance claims.
-- A usable interface or tangible output where appropriate.
-- Transparent limitations and next steps.
-
-## 14. Current Learning & Development
-
-- ML modeling and performance evaluation.
-- Time-series forecasting and anomaly detection.
-- Cloud-based data engineering.
-- Building and deploying Python and cross-platform applications.
-- Integrating trustworthy AI capabilities into useful products.
-- Strengthening testing, documentation, and production-readiness.
-
-## 15. GitHub Activity
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathurhritik2507&show_icons=true&hide_border=true)
+**Open to 2027-start opportunities in Data Science, Data Engineering, Applied AI/ML, Analytics, and Forward Deployed Engineering.**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurhritik2507&layout=compact&hide_border=true)
-
-</div>
-
-*These cards come from a third-party GitHub statistics service and may occasionally be unavailable. Language breakdown reflects public repository code, not a proficiency ranking.*
-
-## 16. Opportunities & Collaboration
-
-I am interested in early-career opportunities and collaboration involving:
-
-- Data Science and applied machine learning.
-- Data Engineering and analytics engineering.
-- AI/ML engineering and intelligent application development.
-- Customer-facing applied AI and forward-deployed engineering.
-- Data products that connect technical systems with measurable business value.
-
-I especially enjoy discussing problems where domain understanding and sound engineering matter as much as model selection.
-
-## 17. Connect With Me
-
-<div align="center">
-
-### Let's build useful things with data.
-
-[![GitHub](https://img.shields.io/badge/GitHub-mathurhritik2507-181717?style=for-the-badge&logo=github)](https://github.com/mathurhritik2507)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hritik_Mathur-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hritikmathur/)
-[![Nagrik Demo](https://img.shields.io/badge/Explore-Nagrik-FF6B00?style=for-the-badge)](https://nagrik-eight.vercel.app)
-
-**Data Engineering · Data Science · Applied AI**
+[LinkedIn](https://www.linkedin.com/in/hritikmathur/) · [Repositories](https://github.com/mathurhritik2507?tab=repositories)
 
 </div>
