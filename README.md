@@ -26,7 +26,29 @@ My focus is the intersection of **Python, SQL, cloud data engineering, applied m
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Engineering Work
+
+> **Explore by discipline:** [Machine Learning](https://github.com/mathurhritik2507/ai-network-incident-prediction) · [Cloud Data Engineering](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline) · [Product Engineering](https://github.com/mathurhritik2507/Nagrik) · [Full Portfolio](https://github.com/mathurhritik2507/data-science-portfolio)
+
+### Systems at a glance
+
+```mermaid
+flowchart LR
+  subgraph Data_Engineering[Cloud Data Engineering]
+    S3[(Amazon S3)] --> EMR[AWS EMR / Hive] --> ETL[Python Processing] --> ML[Model Evaluation]
+  end
+  subgraph Network_Intelligence[Network Intelligence Prototype]
+    KPIs[Synthetic Network KPIs] --> FEATURES[Feature Engineering] --> DETECT[Incident / Anomaly Models] --> DASH[Streamlit Dashboard]
+  end
+  subgraph Civic_Product[Civic Product Beta]
+    USER[Web / Mobile UI] --> AUTH[Firebase Auth]
+    USER --> CIVIC[Civic Reporting & Challenges]
+  end
+```
+
+*Illustrative architecture summaries of distinct projects, not one integrated production system.*
+
+### Project directory
 
 | Project | What it demonstrates | Links |
 |---|---|---|
@@ -82,6 +104,10 @@ My focus is the intersection of **Python, SQL, cloud data engineering, applied m
 - **Research publication:** [*Bibliometric analysis on hand gesture firefighter assistance robots*](https://scholarworks.sjsu.edu/libphilprac/5584/) — **700+ reported downloads**.
 
 ---
+
+## 🧪 Engineering Standards
+
+My portfolio emphasizes **reproducibility over inflated metrics**: explicit data provenance, documented assumptions, holdout evaluation where appropriate, testable scripts, and clear distinctions between prototypes and production deployments. Simulated network incidents are labeled as simulated; beta app features are not presented as verified real-world impact.
 
 ## 🔁 How I Build
 
