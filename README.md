@@ -30,6 +30,7 @@ My focus is the intersection of **Python, SQL, cloud data engineering, applied m
 
 | Project | What it demonstrates | Links |
 |---|---|---|
+| **NetOps GeoAI — Geospatial Network Intelligence** | Geospatial visualization concept combining telecom network operations, geographic context, and AI-oriented operational insights; dedicated public source/demo pending | [Related repositories](https://github.com/mathurhritik2507?tab=repositories) |
 | **NetOps AI — Incident Intelligence** | Telecom KPI-based incident classification; Isolation Forest anomaly detection; synthetic telemetry, holdout evaluation, tests, and Streamlit dashboards | [Code](https://github.com/mathurhritik2507/ai-network-incident-prediction) |
 | **AWS Big Data Analytics** | S3 + EMR + Hive analytics for flight delays; Python preprocessing and classification workflow | [Code](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline) |
 | **Nagrik — Civic Engagement** | React Native / Expo / Firebase application with civic reporting, challenges, and browser beta | [Code](https://github.com/mathurhritik2507/Nagrik) · [Web beta](https://nagrik-eight.vercel.app/login) |
@@ -40,7 +41,7 @@ My focus is the intersection of **Python, SQL, cloud data engineering, applied m
 
 **[Browse the full Data Science portfolio](https://github.com/mathurhritik2507/data-science-portfolio)**
 
-> **NetOps GeoAI:** This is a separate geospatial network-intelligence project concept. The public **NetOps AI** repository above covers incident prediction and anomaly detection; it is **not** represented as the GeoAI application. A dedicated GeoAI repository/demo link will be added when published.
+> **Project distinction:** NetOps GeoAI is a separate geospatial application from NetOps AI incident prediction. Its dedicated public repository/demo has not yet been verified; the related-repositories link above is not a GeoAI source link.
 
 ---
 
